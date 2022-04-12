@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to データサイエンスページ
 
-You can use the [editor on GitHub](https://github.com/k-sasaking/data-science/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+データサイエンスの授業ページです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+データサイエンスの授業では、情報（データ）を「取得」「活用」「分析」できる力を育みます。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 授業の課題
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k-sasaking/data-science/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+|  課題  |  参考動画  |
+| ---- | ---- |
+|  課題1  |  動画1   |
+|  課題2  |  動画1   |
+|  課題3  |  動画1   |
+|  課題4  |  動画1   |
+|  課題5  |  動画1   |
+|  課題6  |  動画1   |
+|  課題7  |  動画1   |
+|  課題8  |  動画1   |
+|  課題9  |  動画1   |
+|  課題10 |  動画1   |
+|  課題11 |  動画1   |
+|  課題12  |  動画1   |

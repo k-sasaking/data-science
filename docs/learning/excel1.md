@@ -11,13 +11,11 @@
 
 ## Excelとは
 まずは以下の動画で簡単なExcelのサンプルを用意しました。Excelとはどういうアプリケーションなのかというところも含めてみてみましょう。
-[https://youtu.be/qVxe3SYzLLY]
-(https://youtu.be/qVxe3SYzLLY)
+[https://youtu.be/qVxe3SYzLLY](https://youtu.be/qVxe3SYzLLY)
 
 ## Excelで表を作成してみよう
 実際に表を作成しながら操作方法を身につけていきましょう。
-[https://youtu.be/1KAxLOwz0CQ]
-(https://youtu.be/1KAxLOwz0CQ)
+[https://youtu.be/1KAxLOwz0CQ](https://youtu.be/1KAxLOwz0CQ)
 
 最後に、作成したExcelファイルは次回も使用するので必ず保存してください。
 - 保存する際の名前「Excel基礎.xlsx」

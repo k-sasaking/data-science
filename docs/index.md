@@ -12,7 +12,7 @@
 | ---- | ---- |
 |  [Excel基礎①](learning/excel1.md)  |  ← ページ内参照   |
 |  [Excel基礎②](learning/excel2.md)  |  ← ページ内参照   |
-|  課題3  |  動画1   |
+|  [Excel基礎③](learning/excel3.md)  |  ← ページ内参照   |
 |  課題4  |  動画1   |
 |  課題5  |  動画1   |
 |  課題6  |  動画1   |

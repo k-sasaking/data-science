@@ -22,5 +22,20 @@
 
 
 ## 課題(動画内の課題とは別です)
-※ これまでのExcelの授業課題が終わっていない人はそちらを優先しましょう。
+  ※ これまでの課題が終わっていない人はそちらを優先しましょう。<br>
+
+  (課題) 以下のシートを作成しなさい<br>
+
+<img src="../images/excel3_practice1.png" height="500"><br>
+
+- 「育成データ」シートの初期データのスピード〜賢さを「ウマ娘データ」シートから参照するようにしなさい。<br>
+
+
+<img src="../images/excel3_practice2.png" height="500"><br>
+
+- 上の画像のような「シュミレータ」シートを作成しなさい。<br>
+- C2〜C8の値は「ウマ娘データ」と「サポートカードデータ」のキャラクター名をデータとするドロップダウンリストを作成しなさい。<br>
+- F3〜J4の表は、VLOOKUP関数を用いてキャラクター名を変更すると値が変更されるようにしなさい。<br>
+
+<iframe width="560" height="500" src="https://www.youtube.com/embed/RDgteDS4hGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 

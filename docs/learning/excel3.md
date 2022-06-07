@@ -9,7 +9,7 @@
     [https://www.pc-koubou.jp/magazine/38812](https://www.pc-koubou.jp/magazine/38812)<br>
   - VLOOKUP関数について<br>
     [https://dekiru.net/article/21009/](https://dekiru.net/article/21009/)<br>
-  - VLOOKUP関数でどんなときに第４引数にTRUEをいれるのか
+  - VLOOKUP関数でどんなときに第４引数にTRUEをいれるのか<br>
     [https://blog02.aqua-school.com/2019/08/24/excel-45/](https://blog02.aqua-school.com/2019/08/24/excel-45/)
 
 それでは、動画を見ていきましょう。<br>

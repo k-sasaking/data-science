@@ -4,11 +4,12 @@
 ## 動画で学ぼう
 今回は早速動画での学習に入っていきましょう。今回から少しずつ難しい操作が出くるので、ゆっくり動画を止めながら進めてください。
   参考サイトとして以下を掲載しておきます。参考資料として読むと理解が深まります。<br>
-    ・ドロップダウンリストの作成について<br>
+    
+  - ドロップダウンリストの作成について<br>
     [https://www.pc-koubou.jp/magazine/38812](https://www.pc-koubou.jp/magazine/38812)<br>
-    ・VLOOKUP関数について<br>
+  - VLOOKUP関数について<br>
     [https://dekiru.net/article/21009/](https://dekiru.net/article/21009/)<br>
-    ・VLOOKUP関数でどんなときに第４引数にTRUEをいれるのか
+  - VLOOKUP関数でどんなときに第４引数にTRUEをいれるのか
     [https://blog02.aqua-school.com/2019/08/24/excel-45/](https://blog02.aqua-school.com/2019/08/24/excel-45/)
 
 それでは、動画を見ていきましょう。<br>

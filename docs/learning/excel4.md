@@ -24,12 +24,12 @@
 
   (課題) 以下のグラフを作成しなさい<br>
 
-<img src="../images/excel3_practice1.png" height="500"><br>
+<img src="../images/excel4_practice1.png" height="500"><br>
 
 - 上の図のように「ウマ娘データ」シートの初期データをデータチャートグラフにしなさい。<br>
 
 
-<img src="../images/excel3_practice2.png" height="500"><br>
+<img src="../images/excel4_practice2.png" height="500"><br>
 
 - 上の図のように「育成データ」のスピード〜スキルまでのパラメータの変遷を折れ線グラフで表しなさい。<br>
 

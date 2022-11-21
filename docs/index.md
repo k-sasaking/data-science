@@ -15,7 +15,7 @@
 |  [Excel基礎③](learning/excel3.md)  |  ← ページ内参照   |
 |  [Excel基礎④](learning/excel4.md)  |  ← ページ内参照   |
 |  [データサイエンス課題①](learning/deta_science1.md)  |  -  |
-|  課題6  |  -  |
+|  [データサイエンス課題②](learning/deta_science2.md)  |  -  |
 |  課題7  |  -  |
 |  課題8  |  -  |
 |  課題9  |  -  |
